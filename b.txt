@@ -1,0 +1,1 @@
+Vamos a crear los documentos que hemos visto antes en la imagen, los documentos 1,2 y 3 los haremos con el editor de texto nano una ruta absoluta, los documentos 4 y 5
